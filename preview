@@ -1,0 +1,2 @@
+import pandas 
+dis24 = pd.read_excel("Efas")
